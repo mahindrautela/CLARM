@@ -1,2 +1,2 @@
 # CLARM
-Conditional Latent Autoregressive recurrent model for spatiotemporal learning
+Conditional Latent Autoregressive Recurrent Model for spatiotemporal learning
