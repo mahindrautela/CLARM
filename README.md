@@ -9,7 +9,7 @@
 ##### The CLARM is used to learn spatialtemporal evolution of 6D phase space of charged beams in particle accelerators. The model can generate phase space projections at various accelerator modules by sampling and decoding the latent space representation. The model also forecasts 6D phase space of charged particles in downstream modules from limited phase space information at upstream locations. This repository contains codes accompanying the [paper]{link coming}. 
 
 <p align="center">
-  <img src="images/clarm_lansce.PNG" width="450" height="260" />
+  <img src="images/clarm_lansce.png" width="450" height="260" />
 </p>
 
 For more information:  
