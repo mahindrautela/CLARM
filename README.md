@@ -10,7 +10,8 @@
 
 For more information:  
 1. [Link](https://doi.org/10.48550/arXiv) of the paper: A conditional latent autoregressive recurrent model for generation and forecasting beam dynamics in particle accelerators.
-2. The dataset accompying the paper is available at [Zenodo](https://zenodo.org/10.5281/zenodo.10819001). The dataset comes from [HPSim](https://github.com/apphys/hpsim), an advanced, open-source tool developed at LANL, enables rapid, online simulations of multipleparticle beam dynamics is used to collect data.
+2. The dataset accompying the paper is available at [Zenodo](https://zenodo.org/10.5281/zenodo.10819001).
+3. The dataset comes from [HPSim](https://github.com/apphys/hpsim), an advanced, open-source tool developed at LANL, enables rapid, online simulations of multipleparticle beam dynamics is used to collect data.
 
 ## About the repository:
 1. The python code is written using pytorch, cuda 11.8 and cudnn 8.x.
