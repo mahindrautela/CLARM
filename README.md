@@ -4,5 +4,8 @@
 
 ##### The CLARM is used to learn spatialtemporal evolution of 6D phase space of charged beams in particle accelerators. The model can generate phase space projections at various accelerator modules by sampling and decoding the latent space representation. The model also forecasts 6D phase space of charged particles in downstream modules from limited phase space information at upstream locations. This repository contains codes accompanying the [paper]{link coming}. 
 
+<p>
+    <img src="images/clarm.png" width="650" height="400" />
+</p>
 
 ##### The dataset accompying the paper is available at [Zenodo](https://zenodo.org/10.5281/zenodo.10819001). The dataset comes from [HPSim](https://github.com/apphys/hpsim), an advanced, open-source tool developed at LANL, enables rapid, online simulations of multipleparticle beam dynamics is used to collect data.
