@@ -13,6 +13,12 @@
   <img src="images/clarm_lansce.png" width="450" height="260" />
 </p>
 
+##### Latent space:
+
+##### Generative ability:
+
+##### Forecasting ability:
+
 For more information:  
 1. [Link](https://doi.org/10.48550/arXiv) of the paper: A conditional latent autoregressive recurrent model for generation and forecasting beam dynamics in particle accelerators.
 2. The dataset accompying the paper is available at [Zenodo](https://zenodo.org/10.5281/zenodo.10819001).
