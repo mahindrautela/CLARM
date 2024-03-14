@@ -9,3 +9,8 @@
 </p>
 
 ##### The dataset accompying the paper is available at [Zenodo](https://zenodo.org/10.5281/zenodo.10819001). The dataset comes from [HPSim](https://github.com/apphys/hpsim), an advanced, open-source tool developed at LANL, enables rapid, online simulations of multipleparticle beam dynamics is used to collect data.
+
+## About the repository:
+1. Written in pytorch with cuda 11.8 and cudnn 8.x.
+2. "main.py" is the main python file (run in spyder).
+3. lib folder has .py files required to run "main.py"
