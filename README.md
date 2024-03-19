@@ -15,13 +15,13 @@
 ##### Latent space:
 
 <p align="center">
-  <img src="images/clarm_lansce.png" width="450" height="260" />
+  <img src="images/latent.png" width="450" height="450" />
 </p>
 
 ##### Generative ability:
 
 <p align="center">
-  <img src="images/clarm_lansce.png" width="450" height="260" />
+  <img src="images/gen_mod_.png" width="450" height="260" />
 </p>
 
 ##### Forecasting ability:
