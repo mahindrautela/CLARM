@@ -15,7 +15,7 @@
 ##### Latent space:
 
 <p align="center">
-  <img src="images/latent.png" width="450" height="450" />
+  <img src="images/latent.PNG" width="450" height="450" />
 </p>
 
 ##### Generative ability:
