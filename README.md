@@ -12,19 +12,19 @@
   <img src="images/clarm_lansce.png" width="450" height="260" />
 </p>
 
-##### Latent space:
+##### **Latent space visualization**:
 
 <p align="center">
   <img src="images/latent.PNG" width="450" height="450" />
 </p>
 
-##### Generative ability:
+##### **Generative ability of CLARM**:
 
 <p align="center">
   <img src="images/gen_pc_pca_metrics_mod_1.png" width="650" height="375" />
 </p>
 
-##### Forecasting ability:
+##### **Forecasting ability of CLARM**:
 
 <p align="center">
   <img src="images/forecasting_log.gif" width="650" height="250" />
