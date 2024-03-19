@@ -27,7 +27,7 @@
 ##### Forecasting ability:
 
 <p align="center">
-  <img src="images/forecasting_log.gif" width="500" height="250" />
+  <img src="images/forecasting_log.gif" width="600" height="250" />
 </p>
 
 For more information:  
