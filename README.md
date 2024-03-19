@@ -21,7 +21,7 @@
 ##### Generative ability:
 
 <p align="center">
-  <img src="images/gen_pc_pca_metrics_mod_1.png" width="650" height="350" />
+  <img src="images/gen_pc_pca_metrics_mod_1.png" width="650" height="375" />
 </p>
 
 ##### Forecasting ability:
