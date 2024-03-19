@@ -12,7 +12,7 @@
   <img src="images/clarm_lansce.png" width="450" height="260" />
 </p>
 
-##### $$\textcolor{red}{Latent \space space \space visualization}$$
+##### $$\color{red}{Latent \space space \space visualization}$$
 
 <p align="center">
   <img src="images/latent.PNG" width="450" height="450" />
