@@ -12,7 +12,7 @@
   <img src="images/clarm_lansce.png" width="450" height="260" />
 </p>
 
-##### <p style='color:red'>This is some red text.</p>  $${\color{red}Latent space visualization}$$  $$\textcolor{green}{Here}$$
+##### <p style='color:red'>This is some red text.</p>  $${\color{red}Latent space visualization}$$  $$\textcolor{green}{Here i am }$$
 
 <p align="center">
   <img src="images/latent.PNG" width="450" height="450" />
