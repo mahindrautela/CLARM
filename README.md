@@ -27,7 +27,7 @@
 ##### Forecasting ability:
 
 <p align="center">
-  <img src="images/clarm_lansce.png" width="450" height="260" />
+  <img src="images/forecasting_log.gif" width="450" height="260" />
 </p>
 
 For more information:  
