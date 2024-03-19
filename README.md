@@ -12,7 +12,7 @@
   <img src="images/clarm_lansce.png" width="450" height="260" />
 </p>
 
-##### **Latent space visualization**
+##### **Latent space visualization:**
 
 <p align="center">
   <img src="images/latent.PNG" width="450" height="450" />
