@@ -15,7 +15,7 @@
 ##### **Latent space visualization:**
 
 <p align="center">
-  <img src="images/latent.PNG" width="550" height="450" />
+  <img src="images/latent.PNG" width="500" height="450" />
 </p>
 
 ##### **Generative ability of CLARM**:
