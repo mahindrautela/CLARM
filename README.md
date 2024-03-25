@@ -27,7 +27,7 @@
 ##### **Forecasting ability of CLARM**:
 
 <p align="center">
-  <img src="images/forecasting_log.gif" width="550" height="150" />
+  <img src="images/forecasting_log.gif" width="550" height="200" />
 </p>
 
 For more information:  
