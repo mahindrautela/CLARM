@@ -34,4 +34,18 @@
 For more information:  
 1. Arxiv [Link](https://arxiv.org/abs/2403.13858) of the paper: A conditional latent autoregressive recurrent model for generation and forecasting beam dynamics in particle accelerators.
 2. HPSim, an advanced, open-source tool developed at LANL, enables rapid, online simulations of multiple-particle beam dynamics. The basic source code of HPSim is available [here](https://github.com/apphys/hpsim) (now inactive repository). The dataset is collected from the new version of HPSim, which is available with LANL (not opensourced).
-3. The dataset accompying the paper is available at Zenodo.  <a href="https://doi.org/10.5281/zenodo.10819001"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10819001.svg" alt="DOI"></a>
+3. The dataset accompying the paper is available at Zenodo.  <a href="https://doi.org/10.5281/zenodo.10819001"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10819001.svg" alt="DOI"></a>.
+4. Please cite the paper if you are using data, code or paper.
+   
+```
+@article{rautela2024conditional,
+  title={A conditional latent autoregressive recurrent model for generation and forecasting of beam dynamics in particle accelerators},
+  author={Rautela, Mahindra and Williams, Alan and Scheinker, Alexander},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={18157},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
